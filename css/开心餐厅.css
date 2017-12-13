@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+p {
+    font-size: 14px;
+}
+#ccc {
+    color: green;
+    font-size: 18px;
+}
+.aaa {
+    color: green;
+}
+.bbb {
+    color: blue;
+}
+strong{
+    color:yellow;
+}
+p strong{
+    color:red;
+}
+strong em{
+    font-size:30px;
+    color:indigo;
+}
+span{
+    font-size: 250px;
+
+}

@@ -1,0 +1,65 @@
+@charset "gb2312";
+/* CSS Document */
+h1, dl, dt, dd {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #D5D5D5;
+}
+#product {
+    width: 230px;
+    background-color: #fff;
+}
+#product h1 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFF;
+    background-color: #000;
+    text-indent: 1em;
+    line-height: 35px;
+}
+#product dt {
+    padding-left: 27px;
+    line-height: 35px;
+    height: 35px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#product dd {
+    font-size: 12px;
+    color: #666666;
+    line-height: 20px;
+    border-bottom: 1px #666666 dashed;
+    padding-left: 27px;
+}
+#product .title01 {
+    background: url(../image/icon_01.gif) 0px 0px no-repeat;
+}
+#product .title02 {
+    background: url(../image/icon_02.gif) 0px 2px no-repeat;
+}
+#product .title03 {
+    background: url(../image/icon_03.gif) 0px 4px no-repeat;
+}
+#product .title04 {
+    background: url(../image/icon_04.gif) 0px 2px no-repeat;
+}
+#product .title05 {
+    background: url(../image/icon_05.gif) 0px 0px no-repeat;
+}
+#product .title06 {
+    background: url(../image/icon_06.gif) 0px 0px no-repeat;
+}
+#product .title07 {
+    background: url(../image/icon_07.gif) 0px 0px no-repeat;
+}
+#product .title08 {
+    background: url(../image/icon_08.gif) 0px 0px no-repeat;
+}
+#product .title09 {
+    background: url(../image/icon_09.gif) 0px 0px no-repeat;
+}
+#product .noLine {
+    border-bottom: 0px;
+}
